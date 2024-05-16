@@ -23,8 +23,11 @@
     팅
  
 ## 로고
-![logo](C:\Users\jc\Downloads\가와이.jpg)
-
+<p align="center">
+<a href="https://example.com">
+    <img src="https://github.com/jcshin0513/jcshin0513/blob/main/%EB%A6%AC%EC%9E%90%EB%AA%BD.jpg?raw=true" alt="My Image" width="200">
+</a>
+</p>
 
 <!--
 **jcshin0513/jcshin0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
