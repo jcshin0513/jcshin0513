@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 소개
+안녕! 나는 똑똑 프로덕트 기획팀 신재철이라고 해
+
+## 하는 일
+아직 안 정해졌어!
+
+
+
 <!--
 **jcshin0513/jcshin0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
